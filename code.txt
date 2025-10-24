@@ -1,2 +1,3 @@
 hello word
 xin chao vo thanh vy sv1
+xin chao nguyen trong tinh sv2
